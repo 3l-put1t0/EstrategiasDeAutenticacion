@@ -1,0 +1,7 @@
+Se va a estudiar los temas de:
+    -   Bcrypt: Encripta información con N caracteres y
+        puede validar si lo ingresado como variable es igual a lo emcriptado
+
+    -   Passport-local y Passport: Genera autenticación y autorización dependiendo
+        si el usuario esta logueado o registrado. Esto se hace para separa la logica del registro
+        y login y la logica del negocio

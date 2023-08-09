@@ -1,0 +1,22 @@
+{
+  "name": "13.1-autenticationautorizacion(passportybcrypt)",
+  "version": "1.0.0",
+  "description": "Se va a estudiar los temas de:\r     -   Bcrypt: Encripta información con N caracteres y\r         puede validar si lo ingresado como variable es igual a lo emcriptado",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "connect-mongo": "^5.0.0",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^7.4.1",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}
